@@ -1,0 +1,37 @@
+[
+  {"name": "Gerbrand Ceder",
+   "bio": "Gerbrand Ceder is The Daniel M. Tellep Distinguished Professor in Engineering in the Department of Materials Science and Engineering at UC Berkeley. His research interests lie in computational and experimental materials design for clean energy technology, Materials Genome approaches to materials design and synthesis, and machine learning and NLP approaches to knowledge extraction.",
+   "image": "gerbrand_ceder.jpg",
+   "link": "http://ceder.berkeley.edu/"
+  },
+  {"name": "Olga Kononova",
+   "bio": "Olga Kononova is a postdoc in Gerbrand Ceder's group at UC Berkeley.",
+   "image": "olga_kononova.jpg",
+   "link": "https://olgakononova.com/"
+  },
+  {"name": "Amalie Trewartha",
+   "bio": "Amalie is a postdoc in Gerbrand Ceder's group at Lawrence Berkeley National Lab. She began her career as a nuclear physicist, before moving into materials science in 2019, with a focus on machine learning. Her research interests include the application of NLP techniques to scientific literature, and building thermodynamically-motivated ML models for materials property prediction.",
+   "image": "amalie_trewartha.png",
+   "link": "https://github.com/amaliet"
+  },
+  {"name": "Haoyan Huo",
+   "bio": "Haoyan is a Materials Science PhD candidate in the Ceder Group at UC Berkeley and Lawrence Berkeley National Lab. He obtained his bachelor's degree in Physics and Economics from Peking University in 2017. He is currently interested in applying NLP/IR to materials science literature, as well as automatic designing of materials synthesis using ML methods.",
+   "image": "haoyan_huo.jpg",
+   "link": "https://haoyan-huo.com/"
+  },
+  {"name": "Tanjin He",
+   "bio": "Tanjin joined the Ceder Group as a Ph.D. student in 2017. His research interest includes materials synthesis and machine learning. He utilizes NLP methods to extract materials information from scientific literature and learns how to predict synthesis from the big data.",
+   "image": "tanjin_he.jpg",
+   "link": "https://github.com/zhugeyicixin"
+  },
+  {"name": "Zheren Wang",
+   "bio": "Zheren joined Ceder Group at UC Berkeley and LBNL in 2018 as a Ph.D. student. He focuses on using machine learning and optimization algorithm to find material synthesis conditions.",
+   "image": "zheren_wang.jpg",
+   "link": "https://github.com/zherenwang"
+  },
+  {"name": "Kevin Cruse",
+   "bio": "Kevin joined the Ceder Group at UC Berkeley as a Ph.D. student in 2019. He uses text mining and machine learning techniques to extract synthesis recipes from materials science literature.",
+   "image": "kevin_cruse.jpg",
+   "link": "https://www.linkedin.com/in/kevin-cruse/"
+  }
+]

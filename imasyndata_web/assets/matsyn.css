@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+
+span.precursor {
+    border-radius: 3px;
+    padding: 1px 1px;
+    background-color: rgba(253,152,7,0.75);
+    color: white;
+}
+
+span.target {
+    border-radius: 3px;
+    padding: 1px 1px;
+    background-color: rgba(219,64,82,0.75);
+    color: white;
+}
+
+span.operation {
+    border-radius: 3px;
+    padding: 1px 1px;
+    background-color: rgba(27,139,244,0.75);
+    color: white;
+}
+
+span.condition {
+    border-radius: 3px;
+    padding: 1px 1px;
+    background-color: rgba(113,200,18,0.75);
+    color: white;
+}
+
+/*Tabs*/
+.search-tabs-container {
+    width: 95%;
+}
+.search-tabs {
+    border-top-left-radius: 3px;
+    background-color: #f9f9f9;
+    padding: 0px 20px;
+    border-bottom: 1px solid #d6d6d6;
+}
+
+.search-tab {
+    color:#586069;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-top: 1px solid lightgrey !important;
+    border-left: 1px solid lightgrey !important;
+    border-right: 1px solid lightgrey !important;
+    border-bottom: 0px !important;
+    padding-top: 9px !important;
+    padding-bottom: 9px !important;
+    padding-left: 3px !important;
+    padding-right: 3px !important;
+    font-size: 1.1em;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+.search-tab--selected {
+    border-left: 2px solid #F19F4D !important;
+    border-right: 2px solid #F19F4D !important;
+    border-top: 7px solid #F19F4D !important;
+    border-bottom: 1px solid #d9d9d9 !important;
+    font-size: 1.2em;
+    font-weight: 700;
+    background-color: #d9d9d9 !important;
+}
+
+/*Cytoscape*/
+cyto.operation_nodes {
+    background-color: #1b8bf4,
+    background-opacity: 0.75,
+    border-width: 0.5,
+    border-color: #1b8bf4,
+    border-opacity: 1.0,
+    padding: 2px,
+    font-size: 5,
+    color: white
+}
+
+div.footer{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #b8bec4;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+div.subtitle{
+    /*margin-left: 19rem;
+    margin-top: -1rem;*/
+    margin-bottom: -0.5rem;
+    padding-bottom: 0rem;
+    padding-top: 0rem;
+    font-family: 'Caveat', cursive;
+    color: #2a528a;
+    font-size: 3.3rem;
+}
+
+.rc-slider-rail{
+  background-color: #f1b579;
+}
+.rc-slider-track{
+  background-color: #F19F4D;
+}
+.rc-slider-dot{
+  background-color: #f1b579;
+  border-color: #f1b579;
+}
+.rc-slider-dot-active{
+  background-color: #F19F4D;
+  border-color: #F19F4D;
+}
+.rc-slider-handle{
+  border: solid 2px #F19F4D;
+  background-color: #F19F4D;
+}
+.rc-slider-handle:focus{
+  border: solid 2px #F19F4D;
+  background-color: #F19F4D;
+}
+.rc-slider-handle:hover{
+  border: solid 2px #F19F4D;
+  background-color: #F19F4D;
+}
+.rc-slider-handle-click{
+  border: solid 2px #F19F4D;
+  background-color: #F19F4D;
+}
+.rc-slider-handle-click-focused{
+  border: solid 2px #F19F4D;
+  background-color: #F19F4D;
+}
+.rc-slider-handle-click-focused:focus{
+  border: solid 2px #F19F4D;
+  background-color: #F19F4D;
+}
+.rc-slider-mark-text{
+  color: #1a1a1a;
+}
+.rc-slider-mark-text-active{
+  color: #1a1a1a;
+  font-weight: bold;
+}
