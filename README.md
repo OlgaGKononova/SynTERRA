@@ -1,4 +1,7 @@
 # SynTERRA
+
+Synthesis Text-Extracted "Recipes" Repository & Analyzer
+
 Web app for exploring the database of text-mined synthesis "recipes"
 
 ### Version 1.0.0
